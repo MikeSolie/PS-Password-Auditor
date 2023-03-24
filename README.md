@@ -11,3 +11,12 @@ This PowerShell script retrieves information about user accounts whose passwords
 ## Usage
 
 To run the script, simply execute the script file in PowerShell using the instructions provided in the Installation section. It will output a table of user account information for all accounts whose passwords have not been changed in the last 90 days.  
+
+## Contributing
+If you'd like to contribute to this project, please feel free to fork this repository and submit a pull request with your changes. Be sure to include a description of your changes and any necessary documentation updates.
+
+## Credits
+This script was created by Mike Solie and is licensed under the MIT License.
+
+## License
+This project is licensed under the terms of the MIT License. See the LICENSE file for details.
